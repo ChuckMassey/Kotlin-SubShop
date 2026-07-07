@@ -2,7 +2,7 @@
 
 Sub Shop is a mobile application for ordering delicious sandwiches with various toppings. This README provides an overview of the app's features, installation instructions, and usage guidelines.
 
-**⚠️ Note:** This project dates back to **2021**, and many changes have been made since then.
+**⚠️ Note:** This project dates back to **2023**, and many changes have been made since then.
 
 **Features**
 
